@@ -5,23 +5,23 @@
 ###Requirements:
 
 - 1x High Power Mixer
-    ![Mixer](http://ghk.h-cdn.co/assets/cm/15/11/54ff2bb429153-cuisinart-power-advantage-plus-9-speed-hand-mixer-1110-s3.jpg)
+    ![Mixer](../imgs/mixer.png)
 - 1x Large Mixing Bowl
-    ![Bowl](http://www.ramkitchen.com/images/catalog/category93.jpg)
+    ![Bowl](../img/bowl.png)
 - 1x Crock Pot (size determines how much)
-    ![Crock Pot](http://demandware.edgesuite.net/aamb_prd/on/demandware.static/-/Sites-master-catalog/default/dwb71573f3/images/highres/SCR300-B-1.jpg)
+    ![Crock Pot](../imgs/crock-pot.png)
 - 1x Sharp Knife
-    ![Knife](http://cdn3.volusion.com/4jdsg.2wu4y/v/vspfiles/photos/572187-2.jpg?1412526070)
+    ![Knife](../imgs/knife.png)
 - 2x (40 ounce) bags of boneless, skinless chicken breasts (8-10 breasts)
-    ![Chicken Breast](http://cdn.shopify.com/s/files/1/0769/2391/products/Tyson_All_Natural_Boneless_Skinless_Chicken_Breast_w_Rib_Meat_40_Oz_large.png)
+    ![Chicken Breast](../imgs/chicken.png)
 - 2x 8 ounce packs of Philadelphia Cream Cheese
-    ![Cream Cheese](http://i5.walmartimages.com/dfw/dce07b8c-abae/k2-_0a938238-a319-4f09-99b2-d67a354226a7.v1.jpg)
+    ![Cream Cheese](../imgs/cream-cheese.png)
 - 1x 16ox bottle Texas Pete hot sauce
-    ![Hot Sauce](http://i5.walmartimages.com/dfw/dce07b8c-7972/k2-_ba330156-8591-40c2-bf71-7334e222803b.v1.jpg)
+    ![Hot Sauce](../imgs/hot-sauce.png)
 - 1x Hidden Valley Ranch Dressing
-    ![Ranch](http://ecx.images-amazon.com/images/I/81Qnaa1NcyL._SL1500_.jpg)
+    ![Ranch](../imgs/ranch,png)
 - 2x Cups of shredded cheese your choice as this sets the flavor....
-    ![Shredded Cheese](https://www.gophergrocery.com/products/large/23171_2.jpg)
+    ![Shredded Cheese](../imgs/shredded-cheese.png)
 
 ###Instructions:
 
@@ -50,4 +50,3 @@
 This recipe is intended for a large family 8-10 people with a large 4-5 quart crock pot.
 All ingredients should be scaled to fit your needs ie if you only have a 2-3 quart crock
 pot then use half the ingredients this recipe calls for
-
