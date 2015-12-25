@@ -5,23 +5,23 @@
 ###Requirements:
 
 - 1x High Power Mixer
-    ![Mixer](../imgs/mixer.png)
+    ![Mixer](imgs/mixer.png)
 - 1x Large Mixing Bowl
-    ![Bowl](../img/bowl.png)
+    ![Bowl](imgs/bowl.png)
 - 1x Crock Pot (size determines how much)
-    ![Crock Pot](../imgs/crock-pot.png)
+    ![Crock Pot](imgs/crock-pot.png)
 - 1x Sharp Knife
-    ![Knife](../imgs/knife.png)
+    ![Knife](imgs/knife.png)
 - 2x (40 ounce) bags of boneless, skinless chicken breasts (8-10 breasts)
-    ![Chicken Breast](../imgs/chicken.png)
+    ![Chicken Breast](imgs/chicken.png)
 - 2x 8 ounce packs of Philadelphia Cream Cheese
-    ![Cream Cheese](../imgs/cream-cheese.png)
+    ![Cream Cheese](imgs/cream-cheese.png)
 - 1x 16ox bottle Texas Pete hot sauce
-    ![Hot Sauce](../imgs/hot-sauce.png)
+    ![Hot Sauce](imgs/hot-sauce.png)
 - 1x Hidden Valley Ranch Dressing
-    ![Ranch](../imgs/ranch,png)
+    ![Ranch](imgs/ranch.png)
 - 2x Cups of shredded cheese your choice as this sets the flavor....
-    ![Shredded Cheese](../imgs/shredded-cheese.png)
+    ![Shredded Cheese](imgs/shredded-cheese.png)
 
 ###Instructions:
 
